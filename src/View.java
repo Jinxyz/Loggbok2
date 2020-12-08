@@ -3,16 +3,21 @@ import javax.swing.*;
 public class View {
     private JFrame window;
     private JTextArea textArea;
-    private JButton button;
     private JPanel viewPanel;
     private JScrollPane scrollPane;
     private JMenuBar menuBar;
     private JMenu menuFile;
+    private JMenuItem newItem, openItem, saveItem, saveAsItem;
+
+    public static void main(String[] args) {
+        new View();
+    }
 
     public View() {
         createWindow();
         createTextArea();
-
+        createMenuBar();
+        createFileMenu();
         window.setVisible(true);
     }
 
@@ -37,6 +42,23 @@ public class View {
         menuFile = new JMenu("File");
         menuBar.add(menuFile);
     }
+
+    public void createFileMenu() {
+
+        newItem = new JMenuItem("New");
+        menuFile.add(newItem);
+
+        openItem = new JMenuItem("Open");
+        menuFile.add(newItem);
+
+        saveItem = new JMenuItem("Save");
+        menuFile.add(saveItem);
+
+        saveAsItem = new JMenuItem("Save As");
+        menuFile.add(saveAsItem);
+
+    }
+
 }
 
 
