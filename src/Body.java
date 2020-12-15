@@ -1,13 +1,18 @@
 public class Body {
 
-    private User creator;
+    private String creator;
     private String text;
 
-    public User getCreator() {
+    public Body(String creator, String text) {
+        this.creator = creator;
+        this.text = text;
+    }
+
+    public String getCreator() {
         return creator;
     }
 
-    public void setCreator(User creator) {
+    public void setCreator(String creator) {
         this.creator = creator;
     }
 
