@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26301ebf-4a6a-4375-b2c4-c30bf56c8570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/database.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Code\PRO2\Loggbok2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l0JmtISqSdbOrSEiWJ8ZhpN3PI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-8.0.22.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\PRO2\Loggbok2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\PRO2\Loggbok2\src" />
+      <recent name="C:\Code\PRO2\Loggbok2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="Loggbok2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View" />
+      <module name="Loggbok2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Loggbok2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.View" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26301ebf-4a6a-4375-b2c4-c30bf56c8570" name="Default Changelist" comment="" />
+      <created>1606728237743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606728237743</updated>
+    </task>
+    <task id="LOCAL−00001" summary="Arbetat med View">
+      <created>1607336077428</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1607336077428</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Arbetat med sparfunktionen och item menu">
+      <created>1607431311161</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1607431311161</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Open, save and saveAs added and working">
+      <created>1607940957617</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1607940957617</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Author added, database added and implemented, can save with database">
+      <created>1608035970597</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1608035970597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arbetat med View" />
+    <MESSAGE value="Arbetat med sparfunktionen och item menu" />
+    <MESSAGE value="Open, save and saveAs added and working" />
+    <MESSAGE value="Author added, database added and implemented, can save with database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Author added, database added and implemented, can save with database" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607334706195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607334706195" />
+    <state x="574" y="97" width="388" height="646" key="#com.intellij.ide.util.MemberChooser" timestamp="1608033849605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" width="388" height="646" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608033849605" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608033761713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608033761713" />
+    <state x="516" y="145" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610965120599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="145" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1610965120599" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1608035969843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608035969843" />
+    <state x="523" y="128" key="DetectedRootsChooserDialog" timestamp="1608033974665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="128" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1608033974665" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1610965118490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610965118490" />
+    <state x="625" y="289" width="310" height="245" key="Github.ShareDialog" timestamp="1606729005535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="625" y="289" width="310" height="245" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1606729005535" />
+    <state x="603" y="118" key="Github.UntrackedFilesDialog" timestamp="1606729014104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="603" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606729014104" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1610964115139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610964115139" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1610964115139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610964115139" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1610964115139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610964115139" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1610964115139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610964115139" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1608033992148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608033992148" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1608035977988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608035977988" />
+    <state x="345" y="149" width="846" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607334968472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="149" width="846" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1607334968472" />
+    <state x="209" y="33" key="new project wizard" timestamp="1607335376696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1607335376696" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1607938748798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1607938748798" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608032564470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608032564470" />
+  </component>
+</project>

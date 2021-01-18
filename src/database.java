@@ -2,6 +2,13 @@ import java.sql.*;
 
 public class database {
 
+    /**
+     * Gets data from MySQL database
+     * @param i
+     * @return
+     * @throws SQLException
+     */
+
     public Body getData(int i)throws SQLException {
 
         Connection conn = DriverManager.getConnection(
